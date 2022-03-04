@@ -10,7 +10,7 @@
  ![GitHub contributors](https://img.shields.io/github/contributors/BotsAppOfficial/BotsApp) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/BotsAppOfficial/BotsApp) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BotsAppOfficial/BotsApp) ![GitHub Repo stars](https://img.shields.io/github/stars/BotsAppOfficial/BotsApp?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/BotsAppOfficial/BotsApp)
  
 
-![Docker Pulls](https://img.shields.io/docker/pulls/princemendiratta/botsapp?style=flat-square&label=Docker+Pulls) ![Docker Image Size](https://img.shields.io/docker/image-size/princemendiratta/botsapp?style=flat-square&label=Docker+Image+Size)
+![Docker Pulls](https://img.shields.io/docker/pulls/rahulchauhan8221/botsapp?style=flat-square&label=Docker+Pulls) ![Docker Image Size](https://img.shields.io/docker/image-size/princemendiratta/botsapp?style=flat-square&label=Docker+Image+Size)
 
 BotsApp is an optimized and easy-to-use WhatsApp UserBot written in Node.js.
 
